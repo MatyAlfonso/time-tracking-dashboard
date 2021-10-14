@@ -3,7 +3,7 @@
 ## English
 This is a project made for practicing purpouses. It's a challenge from Frontend Mentor.
 I decided to make the project with **ReactJS** and **SASS**. 
-I made some minor changes in the UI design but overall it is almost the same that the given design. 
+I made some minor changes in the UI design, but overall it is almost the same that the given design. 
 
 ## Español
 Este es un proyecto hecho para practicar. Es un desafío de Frontend Mentor.
