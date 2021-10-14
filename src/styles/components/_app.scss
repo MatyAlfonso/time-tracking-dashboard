@@ -1,0 +1,42 @@
+.app__main{
+    height: 100vh;
+    background-color: $veryDarkBlueColor;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+.app__user-card-container{
+    display: flex;
+    flex-direction: column;
+}
+
+.app__card-container{
+    width: 50%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: stretch;
+}
+
+@media (max-width: 666px){
+    .app__main{
+        height: 100%;
+        flex-direction: column;
+    }
+
+    .app__user-card-container{
+        display: flex;
+        flex-direction: column;
+        width: 90%;
+    }
+
+    .app__card-container{
+        width: 90%;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+    }
+
+}
