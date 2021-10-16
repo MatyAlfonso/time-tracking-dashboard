@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.f63860a8.chunk.css",
+    "main.js": "/static/js/main.8805a305.chunk.js",
+    "main.js.map": "/static/js/main.8805a305.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.d489f780.js",
+    "runtime-main.js.map": "/static/js/runtime-main.d489f780.js.map",
+    "static/js/2.4f9e1e17.chunk.js": "/static/js/2.4f9e1e17.chunk.js",
+    "static/js/2.4f9e1e17.chunk.js.map": "/static/js/2.4f9e1e17.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.f63860a8.chunk.css.map": "/static/css/main.f63860a8.chunk.css.map",
+    "static/js/2.4f9e1e17.chunk.js.LICENSE.txt": "/static/js/2.4f9e1e17.chunk.js.LICENSE.txt",
+    "static/media/icon-exercise.3e7b0282.svg": "/static/media/icon-exercise.3e7b0282.svg",
+    "static/media/icon-play.e8d4e569.svg": "/static/media/icon-play.e8d4e569.svg",
+    "static/media/icon-self-care.a161aff5.svg": "/static/media/icon-self-care.a161aff5.svg",
+    "static/media/icon-social.64be0c18.svg": "/static/media/icon-social.64be0c18.svg",
+    "static/media/icon-study.1f0a65e4.svg": "/static/media/icon-study.1f0a65e4.svg",
+    "static/media/icon-work.a3f124e5.svg": "/static/media/icon-work.a3f124e5.svg",
+    "static/media/image-jeremy.71cd41f1.png": "/static/media/image-jeremy.71cd41f1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d489f780.js",
+    "static/js/2.4f9e1e17.chunk.js",
+    "static/css/main.f63860a8.chunk.css",
+    "static/js/main.8805a305.chunk.js"
+  ]
+}
